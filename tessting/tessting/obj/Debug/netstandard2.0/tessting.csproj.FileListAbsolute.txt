@@ -1,0 +1,14 @@
+D:\ReproRepos\testingGH\tessting\tessting\bin\Debug\netstandard2.0\tessting.deps.json
+D:\ReproRepos\testingGH\tessting\tessting\bin\Debug\netstandard2.0\tessting.dll
+D:\ReproRepos\testingGH\tessting\tessting\bin\Debug\netstandard2.0\ref\tessting.dll
+D:\ReproRepos\testingGH\tessting\tessting\bin\Debug\netstandard2.0\tessting.pdb
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\tessting.csproj.AssemblyReference.cache
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\tessting.AssemblyInfoInputs.cache
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\tessting.AssemblyInfo.cs
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\tessting.csproj.CoreCompileInputs.cache
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\tessting.dll
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\ref\tessting.dll
+D:\ReproRepos\testingGH\tessting\tessting\obj\Debug\netstandard2.0\tessting.pdb
