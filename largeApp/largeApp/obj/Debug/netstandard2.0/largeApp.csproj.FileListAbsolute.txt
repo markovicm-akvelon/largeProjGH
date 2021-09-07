@@ -1,0 +1,14 @@
+D:\ReproRepos\largeProjGH\largeApp\largeApp\bin\Debug\netstandard2.0\largeApp.deps.json
+D:\ReproRepos\largeProjGH\largeApp\largeApp\bin\Debug\netstandard2.0\largeApp.dll
+D:\ReproRepos\largeProjGH\largeApp\largeApp\bin\Debug\netstandard2.0\ref\largeApp.dll
+D:\ReproRepos\largeProjGH\largeApp\largeApp\bin\Debug\netstandard2.0\largeApp.pdb
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\largeApp.csproj.AssemblyReference.cache
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\largeApp.AssemblyInfoInputs.cache
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\largeApp.AssemblyInfo.cs
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\largeApp.csproj.CoreCompileInputs.cache
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\largeApp.dll
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\ref\largeApp.dll
+D:\ReproRepos\largeProjGH\largeApp\largeApp\obj\Debug\netstandard2.0\largeApp.pdb
