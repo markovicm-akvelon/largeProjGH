@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largeApp.iOS", "largeApp\la
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "largeApp", "largeApp\largeApp\largeApp.csproj", "{1F3DB2CF-9F30-4D03-BB0C-77DC7CD01759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largeApp.Android", "largeApp\Dir1\Dir5\Dir57\Dir32\Dir13\Dir35\Dir8\Dir61\Dir45\Dir83\Dir13\Dir63\Dir27\Dir90\Dir12\largeApp.Android\largeApp.Android.csproj", "{C7B53FA5-97AA-4F26-8DB9-D7A36E19B489}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largeApp.Android", "largeApp\Dir99\Dir9\Dir91\Dir35\Dir18\Dir84\Dir55\Dir14\Dir15\Dir59\Dir92\largeApp.Android\largeApp.Android.csproj", "{C7B53FA5-97AA-4F26-8DB9-D7A36E19B489}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
